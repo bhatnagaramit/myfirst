@@ -9,7 +9,7 @@ The time is
 <%
  out.println( date );
  out.println("<br>Your server's hostname is "+inetAddress.getHostName());
- out.println("How are you doing?");
+ out.println("<br><br>****<br><br>How are you doing?");
 %>
 <br>
 </body>
